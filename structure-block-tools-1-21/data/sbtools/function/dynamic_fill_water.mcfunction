@@ -1,0 +1,1 @@
+function sbtools:dynamic_fill {fill:"minecraft:water",replace:"#sbtools:airlike"}

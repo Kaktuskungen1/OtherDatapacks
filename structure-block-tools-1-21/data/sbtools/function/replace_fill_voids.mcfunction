@@ -1,0 +1,1 @@
+function sbtools:replace_fill {fill:"minecraft:structure_void",replace:"#minecraft:air"}

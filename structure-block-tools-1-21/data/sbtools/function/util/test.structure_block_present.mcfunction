@@ -1,0 +1,1 @@
+return run function sbtools:util/macro.structure_block_present with storage sbtools:util sbPos

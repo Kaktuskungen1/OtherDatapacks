@@ -1,0 +1,9 @@
+scoreboard objectives add sbtools.sbX dummy
+scoreboard objectives add sbtools.sbY dummy
+scoreboard objectives add sbtools.sbZ dummy
+scoreboard objectives add sbtools.x1 dummy
+scoreboard objectives add sbtools.x2 dummy
+scoreboard objectives add sbtools.y1 dummy
+scoreboard objectives add sbtools.y2 dummy
+scoreboard objectives add sbtools.z1 dummy
+scoreboard objectives add sbtools.z2 dummy

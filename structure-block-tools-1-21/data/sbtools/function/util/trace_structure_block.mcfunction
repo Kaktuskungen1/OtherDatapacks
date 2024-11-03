@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ minecraft:structure_block run return run function sbtools:util/select_structure_block
+execute positioned ^ ^ ^0.1 if entity @s[distance=..10] run function sbtools:util/trace_structure_block

@@ -1,0 +1,1 @@
+return run function sbtools:util/dynamic_fill/macro.detect_block with entity @s data

@@ -1,0 +1,1 @@
+$return run execute if block $(x) $(y) $(z) minecraft:structure_block

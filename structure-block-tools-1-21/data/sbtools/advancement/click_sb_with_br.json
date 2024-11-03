@@ -1,0 +1,15 @@
+{
+	"criteria": { "click_sb_with_br": {
+		"trigger": "minecraft:default_block_use",
+		"conditions": {
+			"location": [{
+				"condition": "location_check",
+				"predicate": { "block": { "blocks": "minecraft:structure_block" }}
+			}],
+			"player": { "equipment": {
+				"mainhand": { "items": "minecraft:blaze_rod" }
+			}}
+		}
+	}},
+	"rewards": { "function": "sbtools:util/adv.click_sb_with_br" }
+}
