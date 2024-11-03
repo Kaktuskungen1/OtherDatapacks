@@ -1,0 +1,1 @@
+execute as @e at @s if block ~ ~ ~ minecraft:stonecutter run damage @s 5 dmg:cutt_in_to_pieces
